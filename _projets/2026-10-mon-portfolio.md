@@ -24,9 +24,13 @@ Seul, en salle de formation. Un compte GitHub gratuit, le modèle de portfolio d
 
 ## Productions et preuves
 
-- L'adresse publique du site.
+- L'adresse publique du site : https://seyes02.github.io/portfolio/
 - Le dépôt et son historique des modifications.
+![Le dépôt et son historique des modifications.]({{ "/images/Historique de modif.png" | relative_url }})
 - Le score d'accessibilité relevé.
+![Nu HTML checker.]({{ "/images/Nu Html Checker.png" | relative_url }})
+![Accessibilité.]({{ "/images/Lighthouse firefox.png" | relative_url }})
+
 
 ## Ce que j'en retiens
 
