@@ -34,4 +34,4 @@ Seul, en salle de formation. Un compte GitHub gratuit, le modèle de portfolio d
 
 ## Ce que j'en retiens
 
-Remplacez cette phrase par une difficulté rencontrée et la façon dont vous l'avez réglée.
+Trouver le score d'accessibilité sur Firefox, car Lighthouse n'existe pas. Il faut simplement aller dans l'onglet "Accessibilité".
