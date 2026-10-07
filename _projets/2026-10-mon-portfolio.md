@@ -27,6 +27,7 @@ Seul, en salle de formation. Un compte GitHub gratuit, le modèle de portfolio d
 - L'adresse publique du site.
 - Le dépôt et son historique des modifications.
 - Le score d'accessibilité relevé.
+![Page d'acceuil avec projet et tableau de competences]({{ "/images/Screenshot%202026-10-07%20at%2014-52-15%20Ilyes%20Messabih.png" | relative_url }})
 
 ## Ce que j'en retiens
 
